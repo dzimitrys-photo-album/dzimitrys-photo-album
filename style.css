@@ -1,0 +1,10 @@
+img{
+height: 250px;
+width: 200px;
+transition: transform 2s;
+
+}
+img:hover{
+    transform: scale(1.5);
+    cursor: zoom-in;
+}
